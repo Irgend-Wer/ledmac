@@ -8,10 +8,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line ....
 Section 2 (lemma-disambigution.2)
-reledmac reminder: 
- The number of the footnotes in this section has changed since the last run.
- You will need to run LaTeX two more times before the footnote placement
- and line numbering in this section are correct.
 Completed box being shipped out [1]
 \vbox(633.0+0.0)x407.0
 .\glue 16.0
@@ -24,7 +20,7 @@ Completed box being shipped out [1]
 ....\endL
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(550.0+0.0)x345.0, glue set 413.3159fil
+..\vbox(550.0+0.0)x345.0, glue set 412.82582fil
 ...\write-{}
 ...\glue(\topskip) 3.06
 ...\hbox(6.94+0.10999)x345.0, glue set 251.45fil
@@ -298,14 +294,18 @@ Completed box being shipped out [1]
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\endL
 ....\glue(\rightskip) 0.0
-...\hbox(6.64996+2.85002)x345.0, glue set 309.70662fil
+...\hbox(6.81334+2.85002)x345.0, glue set 305.54062fil
 ....\beginR
 ....\hbox(6.64996+0.0)x0.0
 .....\rule(6.64996+0.0)x0.0
 ....\glue 0.0
-....\TU/lmr/m/n/8 0
+....\TU/lmr/m/n/8 1
 ....\glue 4.0
 ....\TU/lmr/m/n/8 aut
+....\mathon
+....\hbox(3.99+0.0)x4.166, shifted -2.82333
+.....\TU/lmr/m/n/6 2
+....\mathoff
 ....\penalty 10000
 ....\glue 0.0
 ....\kern 1.33337
@@ -318,14 +318,18 @@ Completed box being shipped out [1]
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\endR
 ....\glue(\rightskip) 0.0
-...\hbox(6.64996+2.85002)x345.0, glue set 309.70662fil
+...\hbox(6.81334+2.85002)x345.0, glue set 305.54062fil
 ....\beginR
 ....\hbox(6.64996+0.0)x0.0
 .....\rule(6.64996+0.0)x0.0
 ....\glue 0.0
-....\TU/lmr/m/n/8 0
+....\TU/lmr/m/n/8 2
 ....\glue 4.0
 ....\TU/lmr/m/n/8 aut
+....\mathon
+....\hbox(3.99+0.0)x4.166, shifted -2.82333
+.....\TU/lmr/m/n/6 1
+....\mathoff
 ....\penalty 10000
 ....\glue 0.0
 ....\kern 1.33337
@@ -369,14 +373,18 @@ Completed box being shipped out [1]
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\endL
 ....\glue(\rightskip) 0.0
-...\hbox(6.64996+2.85002)x345.0, glue set 274.74661fil
+...\hbox(6.81334+2.85002)x345.0, glue set 270.58061fil
 ....\beginR
 ....\hbox(6.64996+0.0)x0.0
 .....\rule(6.64996+0.0)x0.0
 ....\glue 0.0
-....\TU/lmr/m/n/8 0
+....\TU/lmr/m/n/8 1
 ....\glue 4.0
 ....\TU/lmr/m/n/8 aut
+....\mathon
+....\hbox(3.99+0.0)x4.166, shifted -2.82333
+.....\TU/lmr/m/n/6 2
+....\mathoff
 ....\penalty 10000
 ....\glue 0.0
 ....\kern 1.33337
