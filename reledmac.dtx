@@ -8390,6 +8390,7 @@
 % The hight level macro \protect\cs{sameword}, used by the editor.
 %    \begin{macrocode}
 \newcommandx{\sameword}[2][1,usedefault]{%
+     \leavevmode%
      \get@sw@txt{#2}%
 %    \end{macrocode}
 % Write the date into the numbered file.
