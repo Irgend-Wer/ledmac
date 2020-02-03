@@ -1,0 +1,401 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Section 1 (lemma-disambigution.1)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line ....
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line ....
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line ....
+Section 2 (lemma-disambigution.2)
+reledmac reminder: 
+ The number of the footnotes in this section has changed since the last run.
+ You will need to run LaTeX two more times before the footnote placement
+ and line numbering in this section are correct.
+Completed box being shipped out [1]
+\vbox(633.0+0.0)x407.0
+.\glue 16.0
+.\vbox(617.0+0.0)x345.0, shifted 62.0
+..\vbox(12.0+0.0)x345.0, glue set 12.0fil
+...\glue 0.0 plus 1.0fil
+...\hbox(0.0+0.0)x345.0, glue set 345.0fil
+....\beginL
+....\glue 0.0 plus 1.0fil
+....\endL
+..\glue 25.0
+..\glue(\lineskip) 0.0
+..\vbox(550.0+0.0)x345.0, glue set 413.3159fil
+...\write-{}
+...\glue(\topskip) 3.06
+...\hbox(6.94+0.10999)x345.0, glue set 251.45fil
+....\beginL
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 Font
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Initialisation
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\endL
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 4.84001
+...\hbox(7.05+2.04999)x345.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern 12.0
+.....\glue 0.0
+....\glue 0.0 plus 1.0fil
+....\hbox(7.05+2.04999)x345.0, glue set 0.30888
+.....\write3{\string \@nl [\the \c@par@page ][\thepage ]}
+.....\beginL
+.....\hbox(0.0+0.0)x15.0
+.....\TU/lmr/m/n/10 Leo
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 ursus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 oryx
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 ricinus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 equus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 lupus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@ref[2][}
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\write3{]}
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 canis
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 felix
+.....\endL
+.....\glue(\rightskip) 0.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0
+.....\kern 12.0
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+...\penalty 300
+...\glue(\splittopskip) 0.0
+...\glue(\baselineskip) 3.01001
+...\hbox(6.94+0.10999)x345.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern 12.0
+.....\glue 0.0
+....\glue 0.0 plus 1.0fil
+....\hbox(6.94+0.10999)x345.0, glue set 241.15fil
+.....\write3{\string \@nl [\the \c@par@page ][\thepage ]}
+.....\beginL
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 asinus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@ref[1][}
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\write3{]}
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 burricus.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\endL
+.....\glue(\rightskip) 0.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0
+.....\kern 12.0
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+...\closeout3
+...\openout3=lemma-disambigution.2
+...\write3{\string \line@list@version {\this@line@list@version }}
+...\glue(\baselineskip) 4.84001
+...\hbox(7.05+2.04999)x345.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern 12.0
+.....\glue 0.0
+....\glue 0.0 plus 1.0fil
+....\hbox(7.05+2.04999)x345.0, glue set 0.30888
+.....\write3{\string \@nl [\the \c@par@page ][\thepage ]}
+.....\beginR
+.....\hbox(0.0+0.0)x15.0
+.....\TU/lmr/m/n/10 Leo
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 ursus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 oryx
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 ricinus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 equus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 lupus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\string \@lab }
+.....\write1{\l@dmake@labels \thepage |1|0|1||1|{edtext:start:edtxt@3}}
+.....\penalty 10000
+.....\glue 0.0
+.....\write3{]}
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\write3{\string \@lab }
+.....\write1{\l@dmake@labels \thepage |1|0|1||1|{edtext:end:edtxt@3}}
+.....\write3{\@ref[2][}
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 canis
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 felix
+.....\endR
+.....\glue(\rightskip) 0.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0
+.....\kern 12.0
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+...\penalty 300
+...\glue(\splittopskip) 0.0
+...\glue(\baselineskip) 3.01001
+...\hbox(6.94+0.10999)x345.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern 12.0
+.....\glue 0.0
+....\glue 0.0 plus 1.0fil
+....\hbox(6.94+0.10999)x345.0, glue set 241.15fil
+.....\write3{\string \@nl [\the \c@par@page ][\thepage ]}
+.....\beginR
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 asinus
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\write3{\string \@lab }
+.....\write1{\l@dmake@labels \thepage |2|0|2||1|{edtext:start:edtxt@4}}
+.....\penalty 10000
+.....\glue 0.0
+.....\write3{]}
+.....\write3{\@sw{aut}{}}
+.....\TU/lmr/m/n/10 aut
+.....\write3{\string \@lab }
+.....\write1{\l@dmake@labels \thepage |2|0|2||1|{edtext:end:edtxt@4}}
+.....\write3{\@ref[1][}
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 burricus.
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\endR
+.....\glue(\rightskip) 0.0
+....\hbox(0.0+0.0)x0.0, glue set - 12.0fil
+.....\glue 0.0
+.....\kern 12.0
+.....\vbox(0.0+0.0)x0.0
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+...\special{pdf:docinfo<</BIDI.Fullbanner(This is the bidi package, Version 35.10\ETC.}
+...\glue -0.10999
+...\glue 0.0 plus 1.0fil
+...\glue 11.99997 plus 6.00006 minus 6.00006
+...\glue 0.0
+...\vbox(0.0+0.0)x137.9979
+....\kern -3.0
+....\rule(0.4+0.0)x137.9979
+....\kern 2.6
+...\glue 0.0
+...\hbox(6.81334+2.85002)x345.0, glue set 305.54062fil
+....\beginL
+....\hbox(6.64996+0.0)x0.0
+.....\rule(6.64996+0.0)x0.0
+....\glue 0.0
+....\TU/lmr/m/n/8 1
+....\glue 4.0
+....\TU/lmr/m/n/8 aut
+....\mathon
+....\hbox(3.99+0.12599)x4.166, shifted -2.82333
+.....\TU/lmr/m/n/6 6
+....\mathoff
+....\penalty 10000
+....\glue 0.0
+....\kern 1.33337
+....\TU/lmr/m/n/8 ]
+....\kern 0.0
+....\glue 4.0
+....\TU/lmr/m/n/8 et
+....\rule(6.64996+2.85002)x0.0
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\endL
+....\glue(\rightskip) 0.0
+...\hbox(6.81334+2.85002)x345.0, glue set 305.54062fil
+....\beginL
+....\hbox(6.64996+0.0)x0.0
+.....\rule(6.64996+0.0)x0.0
+....\glue 0.0
+....\TU/lmr/m/n/8 2
+....\glue 4.0
+....\TU/lmr/m/n/8 aut
+....\mathon
+....\hbox(3.99+0.0)x4.166, shifted -2.82333
+.....\TU/lmr/m/n/6 2
+....\mathoff
+....\penalty 10000
+....\glue 0.0
+....\kern 1.33337
+....\TU/lmr/m/n/8 ]
+....\kern 0.0
+....\glue 4.0
+....\TU/lmr/m/n/8 et
+....\rule(6.64996+2.85002)x0.0
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\endL
+....\glue(\rightskip) 0.0
+...\hbox(6.64996+2.85002)x345.0, glue set 309.70662fil
+....\beginR
+....\hbox(6.64996+0.0)x0.0
+.....\rule(6.64996+0.0)x0.0
+....\glue 0.0
+....\TU/lmr/m/n/8 0
+....\glue 4.0
+....\TU/lmr/m/n/8 aut
+....\penalty 10000
+....\glue 0.0
+....\kern 1.33337
+....\TU/lmr/m/n/8 ]
+....\kern 0.0
+....\glue 4.0
+....\TU/lmr/m/n/8 et
+....\rule(6.64996+2.85002)x0.0
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\endR
+....\glue(\rightskip) 0.0
+...\hbox(6.64996+2.85002)x345.0, glue set 309.70662fil
+....\beginR
+....\hbox(6.64996+0.0)x0.0
+.....\rule(6.64996+0.0)x0.0
+....\glue 0.0
+....\TU/lmr/m/n/8 0
+....\glue 4.0
+....\TU/lmr/m/n/8 aut
+....\penalty 10000
+....\glue 0.0
+....\kern 1.33337
+....\TU/lmr/m/n/8 ]
+....\kern 0.0
+....\glue 4.0
+....\TU/lmr/m/n/8 et
+....\rule(6.64996+2.85002)x0.0
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\endR
+....\glue(\rightskip) 0.0
+...\glue 11.99997 plus 6.00006 minus 6.00006
+...\glue 0.0
+...\vbox(0.0+0.0)x137.9979
+....\kern -3.0
+....\rule(0.4+0.0)x137.9979
+....\kern 2.6
+...\glue 0.0
+...\hbox(6.81334+2.85002)x345.0, glue set 270.58061fil
+....\beginL
+....\hbox(6.64996+0.0)x0.0
+.....\rule(6.64996+0.0)x0.0
+....\glue 0.0
+....\TU/lmr/m/n/8 1
+....\glue 4.0
+....\TU/lmr/m/n/8 aut
+....\mathon
+....\hbox(3.99+0.12599)x4.166, shifted -2.82333
+.....\TU/lmr/m/n/6 6
+....\mathoff
+....\penalty 10000
+....\glue 0.0
+....\kern 1.33337
+....\TU/lmr/m/n/8 ]
+....\kern 0.0
+....\glue 4.0
+....\TU/lmr/m/n/8 monotone…
+....\rule(6.64996+2.85002)x0.0
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\endL
+....\glue(\rightskip) 0.0
+...\hbox(6.64996+2.85002)x345.0, glue set 274.74661fil
+....\beginR
+....\hbox(6.64996+0.0)x0.0
+.....\rule(6.64996+0.0)x0.0
+....\glue 0.0
+....\TU/lmr/m/n/8 0
+....\glue 4.0
+....\TU/lmr/m/n/8 aut
+....\penalty 10000
+....\glue 0.0
+....\kern 1.33337
+....\TU/lmr/m/n/8 ]
+....\kern 0.0
+....\glue 4.0
+....\TU/lmr/m/n/8 monotone…
+....\rule(6.64996+2.85002)x0.0
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\endR
+....\glue(\rightskip) 0.0
+...\glue -2.85002
+...\glue 0.0 plus 0.0001fil
+..\glue(\baselineskip) 23.34
+..\hbox(6.66+0.0)x345.0, glue set 170.0fil
+...\beginL
+...\glue 0.0 plus 1.0fil
+...\TU/lmr/m/n/10 1
+...\glue 0.0 plus 1.0fil
+...\endL
+(lemma-disambigution.aux)
